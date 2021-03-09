@@ -1,4 +1,7 @@
-body 
+body {
+  background-color: lightblue;
+  background-image: linear-gradient(brown, green);
+}
 
 h1 {
   color: green;
