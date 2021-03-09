@@ -10,3 +10,9 @@ h1 {
 #grad {
   background-image: linear-gradient(brown, green);
 }
+
+#colors {
+  padding: 20px;
+  border: 5px solid  #280FFF;
+  background: #320FFF;
+  width: 100%;}
